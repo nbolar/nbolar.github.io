@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikhil Bolar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/photo1.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Projects."
   location         : "Bahrain"
   email            :
