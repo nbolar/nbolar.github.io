@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nikhil Bolar"
+  name             : "Nikhil"
   avatar           : "/images/photo1.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Projects."
   location         : "Bahrain"
@@ -131,7 +131,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://linkedin.com/in/nikhilbolar"
 
 # Site Footer
