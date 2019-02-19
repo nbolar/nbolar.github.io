@@ -95,7 +95,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - "https://www.linkedin.com/in/nikhilbolar"
 
 # Analytics
 analytics:
@@ -131,6 +130,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/nikhilbolar"
 
 # Site Footer
 footer:
