@@ -6,56 +6,10 @@ category: [swift]
 excerpt: "macOS, Swift, OpenWeatherMap, command line"
 ---
 
-# H1 Heading
+## What is Weathered?
 
-## H2 Heading
+Link Me is a simple macOS command line app that tells you the weather of any city on Earth and uses the OpenWeatherMap API.
 
-### H3 Heading
+You can check out the project on [github](https://github.com/nbolar/Command-Line-Weather).
 
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-<!-- Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg) -->
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/weathered.png" alt="Weathered inside Terminal" width="width" height="height" style="padding-bottom:0.5em;" />Weathered inside Terminal</div>
