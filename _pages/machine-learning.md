@@ -11,7 +11,7 @@ header:
 <ul>
   {% for post in site.categories.machine %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}{{ post.date }}</a>
+      <a href="{{ post.url }}">{{ post.title }}{{ post.date | date_to_string }}</a>
     </li>
   {% endfor %}
 </ul>
