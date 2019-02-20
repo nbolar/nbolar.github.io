@@ -8,7 +8,7 @@ excerpt: "macOS, Swift, OpenWeatherMap, command line"
 
 ## What is Weathered?
 
-Link Me is a simple macOS command line app that tells you the weather of any city on Earth and uses the OpenWeatherMap API.
+Weathered is a simple macOS command line app that tells you the weather of any city on Earth and uses the OpenWeatherMap API.
 
 You can check out the project on [github](https://github.com/nbolar/Command-Line-Weather).
 
