@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /delay-tolerant/
 title: "Delay Tolerant Network"
 author_profile: true

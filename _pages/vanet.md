@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /vanet/
 title: "VANET"
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /swift/
 title: "Swift Work"
 author_profile: true
