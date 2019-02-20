@@ -6,6 +6,8 @@ main:
     url: /delay-tolerant/
   - title: "Swift Work"
     url: /swift/
+  - title: "VANET"
+    url: /vanet/
   - title: "About"
     url: /about/
 
