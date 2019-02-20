@@ -2,6 +2,8 @@
 main:
   - title: "Machine Learning"
     url: /machine-learning/
+  - title: "Delay Tolerant Network"
+    url: /delay-tolerant/
   - title: "About"
     url: /about/
 
