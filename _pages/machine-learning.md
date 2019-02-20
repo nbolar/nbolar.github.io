@@ -5,4 +5,5 @@ title: "Machine Learning"
 author_profile: true
 header:
   image: "/images/photo4.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)
 ---
