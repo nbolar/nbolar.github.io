@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /machine-learning/
 title: "Machine Learning"
 author_profile: true
@@ -7,4 +7,14 @@ header:
   image: "/images/photo4.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
-I'm a recent Computer Science masters graduate with significant, diverse project experience that includes solutions in machine learning, computer vision, and a mobile app. Undergraduate degree in aerospace engineering. Seeking challenging software development roles with a focus on back-end engineering.
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field = "tags" %}
+
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
