@@ -7,6 +7,6 @@ header:
   image: "/images/photo4.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
-{% for post in site.categories.machine %}
+{% for post in site.tags.tweet %}
     {{ post.content }}
 {% endfor %}
