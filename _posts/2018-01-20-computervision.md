@@ -1,12 +1,12 @@
 ---
-title: "Tweet Sentiment Classifier"
-date: 2018-03-05
-tags: [tweet, sentiment, data science, classifier]
+title: "Object Recognition and Matching"
+date: 2018-01-20
+tags: [computer vision, object recognition, matching]
 category: [machine]
 header:
-  image: "/images/tweets.jpg"
-  caption: "Photo credit: [**Ph7Labs**](https://ph7labs.com)"
-excerpt: "Tweets, Sentiment Classifier, Messy Data"
+  image: "/images/vision1.jpg"
+  caption: "Photo credit: [**Envano**](https://envano.com)"
+excerpt: "Computer Vision, Object Recognition"
 ---
 
 # H1 Heading
