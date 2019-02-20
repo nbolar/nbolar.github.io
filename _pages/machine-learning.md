@@ -8,5 +8,5 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 {% for post in site.categories.machine %}
-    {{ post.posts }}
+    {{ post }}
 {% endfor %}
