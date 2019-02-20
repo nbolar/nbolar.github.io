@@ -8,5 +8,8 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 {% for post in site.categories.machine %}
-    {{ post.content | strip_html }}
+  <a href="{{ post.url }}">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.date | date_to_string }}</p>
+  </a>
 {% endfor %}
