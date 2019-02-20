@@ -4,6 +4,8 @@ main:
     url: /machine-learning/
   - title: "Delay Tolerant Network"
     url: /delay-tolerant/
+  - title: "Swift Work"
+    url: /swift/
   - title: "About"
     url: /about/
 
