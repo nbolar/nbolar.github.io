@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: posts
 permalink: /machine-learning/
 title: "Machine Learning"
 author_profile: true
