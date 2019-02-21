@@ -7,6 +7,10 @@ header:
   image: "/images/vision1.jpg"
   caption: "Photo credit: [**Envano**](https://envano.com)"
 excerpt: "Computer Vision, Object Recognition"
+links:
+  - label: "Linkedin"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/in/nikhilbolar"
 ---
 
 # Computer Vision and Machine Learning
@@ -15,7 +19,6 @@ In the case of object matching in videos, an algorithm was used to detect a spec
 <br>
 
 MATLAB’s Computer Vision Toolbox is used extensively throughout this project. The feature detection, description and matching functions of this toolbox were used. MATLAB uses SURF key- points to generate the detectors using **detectSURFFeatures()**. Since this function only works with Greyscale images, the training images needed to converted to greyscale images using the **rgb2gray()** function. Once that was complete, the **extractFeatures()** function was used to get valid SURF Features. The ‘MetricThreshold’ parameter was used in-order to control the number of SURF points generated for each training image. It is a non-negative scalar which specifies a threshold for selecting the strongest features. Decreasing it returns more blobs.
-
 <br>
 
 In order to perform object matching on videos, I decided to perform the matching by extracting each frame of the video and using them as standalone images to perform feature matching. Using the **matchFeatures()** function, highly similar features between the training images and the video were matched. Since we are dealing with two training images, there may be overlap between the some matches between the training images and the video. Hence to eliminate this overlap, the training image that shared the most number of matching pairs was chosen as the images to perform further feature analysis on. In order to show a more accurately recognised object it was necessary to re- move the outliers present in the matching points. The estimateGeometricTransform() function was used to generate only the inliers between the training image and the corresponding video frame.
@@ -33,6 +36,6 @@ Moving on towards locating and labeling the recognised object, a box was created
 
 Since doing the analysis of each frame in the video was very slow, in order to speed up this process I chose to use every 4th frame to perform the analysis on. This is an arbitrary number chosen based on trial and error. When choosing a number higher than this the frames move a little too quick and there is not enough time to detect/recognize certain objects in the video frame. While using a number lower than this makes the process run a lot longer and slower. Since very little data is lost between four frames, the analysis works at a good speed while being able to perform fairly accurate detecting and matching of features.
 
-**You can check out the code on [GitHub](https://github.com/nbolar/objectMatching)**
+**You can check out the code on [GitHub](https://github.com/nbolar/objectMatching)**.
 
 Since the Matlab code has been sectioned out, it is possible to run and advance to each section instead of running the entire program. Running the entire program will perform analysis on 4 separate video files using three different training images at different points in time as and when the section before it completes the analysis.
