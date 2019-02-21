@@ -7,10 +7,6 @@ header:
   image: "/images/vision1.jpg"
   caption: "Photo credit: [**Envano**](https://envano.com)"
 excerpt: "Computer Vision, Object Recognition"
-links:
-  - label: "Linkedin"
-    icon: "fab fa-fw fa-linkedin"
-    url: "https://linkedin.com/in/nikhilbolar"
 ---
 
 # Computer Vision and Machine Learning
