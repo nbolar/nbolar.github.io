@@ -19,7 +19,7 @@ The main task is to complete the simulation of this DTN for the transmission of 
 
 
 
-You can check out the project on [github](https://github.com/nbolar/Delay-Tolerant-Network).
+You can check out the project on [GitHub](https://github.com/nbolar/Delay-Tolerant-Network).
 
 ## Node Operation
 Packets generated in Village 1 are sent to the bus. The bus acknowledges the reception of each packet. As soon as a packet is acknowledged, Village 1 sends a new packet to the bus. If a packet is not acknowledged by the bus, Village 1 keeps transmitting the current packet until received successfully by the bus.
