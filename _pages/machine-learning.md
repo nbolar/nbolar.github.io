@@ -4,8 +4,8 @@ permalink: /machine-learning/
 title: "Machine Learning"
 author_profile: true
 header:
-  image: "/images/photo4.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: "/images/machine learning.png"
+  caption: "Photo credit: [**SmartData Collective**](https://www.smartdatacollective.com/savvy-entrepreneurs-are-using-machine-learning-to-streamline-logo-design/)"
 ---
 
 <ul>
