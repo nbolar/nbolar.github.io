@@ -4,7 +4,7 @@ date: 2018-01-20
 tags: [computer vision, object recognition, matching]
 category: [machine]
 header:
-  image: "/images/vision1.jpg"
+  image: "/images/vision1.png"
   caption: "Photo credit: [**Envano**](https://envano.com)"
 excerpt: "Computer Vision, Object Recognition"
 ---
