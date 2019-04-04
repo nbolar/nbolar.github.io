@@ -4,7 +4,7 @@ date: 2019-02-20
 tags: [swift, weather, macOS, app]
 category: [swift]
 header:
-  image: "/images/weatherstatus.jpg"
+  image: "/images/weatherstatus.png"
 excerpt: "macOS app, Swift, Dark Sky"
 ---
 
