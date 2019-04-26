@@ -4,7 +4,7 @@ date: 2019-04-04
 tags: [swift, darkmode, macOS, menubar]
 category: [swift]
 header:
-  image: "/images/playstatus.png"
+  image: "/images/playstatus_header.png"
 excerpt: "macOS, Swift, Dark mode"
 ---
 ## What is PlayStatus?
