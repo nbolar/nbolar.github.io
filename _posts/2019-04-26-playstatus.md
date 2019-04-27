@@ -1,7 +1,7 @@
 ---
 title: "PlayStatus"
-date: 2019-04-04
-tags: [swift, darkmode, macOS, menubar]
+date: 2019-04-26
+tags: [swift, macOS, menubar]
 category: [swift]
 header:
   image: "/images/playstatus_header.png"
