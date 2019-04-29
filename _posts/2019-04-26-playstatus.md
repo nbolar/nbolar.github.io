@@ -10,15 +10,5 @@ excerpt: "macOS, Swift, Dark mode"
 ## What is PlayStatus?
 PlayStatus is a macOS menu bar app that allows you to control music playback of iTunes and Spotify.
 
-### This app is currently under development.
-<!-- Rates is a simple macOS app that lives in your menu bar that allows you to quickly convert between currencies of your choice as well as monitor the exchange rates. It uses the fixer.io API to receive the exchange rates of 170 currencies, including Bitcoin, Gold and Silver rates.
-
-The app allows you to choose any of the 170 currencies as your base currency to view the exchange rates. By default the base currency is set to USD. The rates are updated hourly.
-
-You can check out the project on [GitHub](https://github.com/nbolar/Rates).
-
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/rates_screenshot.png" alt="Darko" width="width" height="height" style="padding-bottom:0.5em;" /></div>
-
 ---
-
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/rates_preview.gif" alt="Darko" width="width" height="height" style="padding-bottom:0.5em;" />Rates in action</div> -->
+<div style="width:image width px; font-size:80%; text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/PlayStatus_preview.gif" alt="PlayStatus" width="width" height="height" style="padding-bottom:0.5em;" />PlayStatus in action</div>
