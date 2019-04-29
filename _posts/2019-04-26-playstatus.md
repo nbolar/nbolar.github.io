@@ -5,7 +5,7 @@ tags: [swift, macOS, menubar]
 category: [swift]
 header:
   image: "/images/playstatus_header.png"
-excerpt: "macOS, Swift, Dark mode"
+excerpt: "macOS, Swift, Music"
 ---
 ## What is PlayStatus?
 PlayStatus is a macOS menu bar app that allows you to control music playback of iTunes and Spotify.
