@@ -4,7 +4,7 @@ permalink: /swift/
 title: "Swift Work"
 author_profile: true
 header:
-  image: "/images/swift.jpg"
+  image: "/images/swift.png"
 ---
 <ul>
   {% for post in site.categories.swift %}
