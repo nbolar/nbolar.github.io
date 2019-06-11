@@ -109,7 +109,7 @@ author:
   name             : "Nikhil Bolar"
   avatar           : "/images/photo1.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I break things most of the time and ocasionally build something nice."
-  location         : "Bahrain"
+  location         : "Bahrain <-> Boston"
   email            :
   links:
     - label: "Email"
