@@ -15,4 +15,4 @@ You can check out the project on [GitHub](https://github.com/nbolar/PlayStatus).
 ---
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/PlayStatus_preview.gif" alt="PlayStatus" width="width" height="height" style="padding-bottom:0.5em;" />PlayStatus in action</div>
 
-###### The above GIF might take a while to load due to the large file size.
+###### Note : The above GIF might take a while to load due to the large file size.
