@@ -12,8 +12,9 @@ PlayStatus is a macOS menu bar app that allows you to control music playback of 
 
 You can check out the project on [GitHub](https://github.com/nbolar/PlayStatus).
 
----
+
 #### The Search Functionality works only for songs present in your iTunes Library.
+---
 <div style="width:image width px; font-size:80%; text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/PlayStatus_preview.gif" alt="PlayStatus" width="width" height="height" style="padding-bottom:0.5em;" />PlayStatus in action</div>
 
 ###### Note : The above GIF might take a while to load due to the large file size.
