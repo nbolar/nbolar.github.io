@@ -15,4 +15,4 @@ Weather Status also provides a 7-day weather forecast which can be viewed by scr
 
 It is powered by the DarkSky weather API for weather information as well as Mapbox API for location lookup and reverse geocoding.
 
-You can check out the project on [GitHub](https://github.com/nbolar/Weather-Status) or if you'd like to support my work you can grab it on the [Mac App Store](https://itunes.apple.com/us/app/weather-status/id1453284596?ls=1&mt=12).
+You can check out the partial project on [GitHub](https://github.com/nbolar/Weather-Status) or if you'd like to support my work you can grab it on the [Mac App Store](https://itunes.apple.com/us/app/weather-status/id1453284596?ls=1&mt=12).
