@@ -1,6 +1,6 @@
 ---
 title: "PlayStatus"
-date: 2019-04-26
+date: 2020-03-02
 tags: [swift, macOS, menubar]
 category: [swift]
 header:
